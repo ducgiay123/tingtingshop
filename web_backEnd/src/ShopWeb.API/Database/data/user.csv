@@ -1,0 +1,11 @@
+id,first_name,last_name,email,password,phone,user_role
+1,John,Doe,johndoe@example.com,password123,123456789,1
+2,Jane,Smith,janesmith@example.com,securepassword,987654321,0
+3,Alice,Johnson,alicejohnson@example.com,123,555666777,1
+4,Michael,Brown,michaelbrown@example.com,pass1234,111222333,1
+5,Sarah,Miller,sarahmiller@example.com,password456,999888777,0
+6,David,Wilson,davidwilson@example.com,ilovecoding,777888999,1
+7,Emily,Anderson,emilyanderson@example.com,secure123,333444555,1
+8,Christopher,Lewis,christopherlewis@example.com,letmein123,666555444,1
+9,Amanda,Clark,amandaclark@example.com,password789,222333444,0
+10,Matthew,Hall,matthewhall@example.com,admin123,888999000,1

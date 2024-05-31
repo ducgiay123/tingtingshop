@@ -1,0 +1,11 @@
+id,first_name,last_name,email,password_hash,phone,role,avatar_link
+A2AC52FC-3DA0-4AFB-A5A5-9CB4FAB0DBF1,John,Doe,johndoe@example.com,$2a$11$Oru1ETTNeQ0HtEDRO1z1VuAIVeBW8Vi3q68C/dLw/imSSp81e7az2,123456789,1,https://random.imagecdn.app/500/400
+E686E1A7-28C6-41A5-BC49-46CE7EB1B6DA,Jane,Smith,janesmith@example.com,$2a$11$xCAQhYTQH10TIlCFIMt9teZCzvbLmbZ16/BpzBECbqhcFsJmtijUu,987654321,0,https://picsum.photos/seed/picsum/400/500
+DEE4F49F-F86C-4616-A38C-784D063B5C95,Alice,Johnson,alicejohnson@example.com,$2a$11$/4Xag1i2qsU.yfxgOjGUReBZ1zFizpo/fVzhAgrSm9OPowyRTBszq,555666777,1,https://random.imagecdn.app/500/400
+BEA2C6ED-08DC-4B33-9B36-C57BC2C05FAE,Michael,Brown,michaelbrown@example.com,$2a$11$SduCemq9/XykWHEGVyqAQeOd3uH/FoXCOFGFpoT5b2wq6DGgKypQ2,111222333,1,https://random.imagecdn.app/500/400
+677A1C84-707B-42A6-8C7A-03C2953E3203,Sarah,Miller,sarahmiller@example.com,$2a$11$dQNFJU9JvvByllm.SLwrueETuki0YjKlL6ARA1TcYoUYzDZbDdCHy,999888777,0,https://random.imagecdn.app/500/400
+781AB372-6A62-47F4-915B-08EB6305B7F3,David,Wilson,davidwilson@example.com,$2a$11$zHFl5WM4O0HSCfi3.KjS3ehkBhz2i51Bt3EAbI0l3xYatl3vwjVnW,777888999,1,https://random.imagecdn.app/500/400
+C12E0B4B-ACF4-4F3C-BCFB-072F50CF03A0,Emily,Anderson,emilyanderson@example.com,$2a$11$3VbmL2qK.jZphPf311ya.ep6Djt07Hgxf3r/.LpRYOKO484Fufa5y,333444555,1,https://random.imagecdn.app/500/400
+E74DBD32-214D-4857-B0FC-816A21B9F024,Christopher,Lewis,christopherlewis@example.com,$2a$11$pucZT70qH2jzjG/s20wsK.jHa/NEdD5jYvCGrMVeTIHhYMM1bpCzm,666555444,1,https://random.imagecdn.app/500/400
+2A0B09A3-109D-4147-B8FE-4376E5FAC46F,Amanda,Clark,amandaclark@example.com,$2a$11$/atrQkH/O8wop64NJHVt4.kLEoEaq79O3fXErZS1cTx3b52sNLfSO,222333444,0,https://random.imagecdn.app/500/400
+AB8B86BB-4BC9-44FC-9EAC-7D3F853C5F9C,Matthew,Hall,matthewhall@example.com,$2a$11$P.Kfy1UlQP5aiN.GmJ6fse/WNVKMYSrtNlJ55g3LSvdyAWAe4I9PO,888999000,1,https://random.imagecdn.app/500/400

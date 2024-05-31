@@ -1,0 +1,11 @@
+.login-form {
+  width: 80%;
+}
+
+.login-form-button {
+  width: 100%;
+}
+
+.ant-checkbox-checked .ant-checkbox-inner:hover {
+  border-color: #1aebb6;
+}

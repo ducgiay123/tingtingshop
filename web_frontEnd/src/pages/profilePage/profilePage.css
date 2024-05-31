@@ -1,0 +1,58 @@
+.profileContainer {
+  height: calc(100vh);
+  display: flex;
+  /* flex-direction: column;
+  justify-content: center;
+  align-items: center; */
+}
+.profileMain {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 48%;
+}
+.oderTableContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 48%;
+}
+.profileInfo {
+  margin-top: 20px;
+  width: 60%;
+}
+.profileSection {
+  display: flex;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.profileSection p {
+  padding: 0px;
+  margin: 0px;
+}
+
+@media (max-width: 936px) {
+  .footer {
+    font-size: 0.9rem;
+  }
+}
+
+@media (max-width: 622px) {
+  .footer {
+    font-size: 0.7rem;
+  }
+}
+
+@media (max-height: 936px) {
+  .footer {
+    font-size: 0.9rem;
+  }
+}
+
+@media (max-height: 622px) {
+  .footer {
+    font-size: 0.7rem;
+  }
+}

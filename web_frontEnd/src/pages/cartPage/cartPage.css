@@ -1,0 +1,11 @@
+.cartPage {
+  height: calc(100vh - 190px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  color: #5c3551;
+}
+.cartPage h1 {
+  color: #5c3551;
+}

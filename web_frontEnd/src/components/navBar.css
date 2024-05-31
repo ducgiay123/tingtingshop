@@ -1,0 +1,66 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  background-color: #f7f1e4;
+
+  align-items: center;
+  padding: 10px 4%;
+  height: 90px;
+}
+
+.left {
+  display: flex;
+  align-items: center;
+  width: 30%;
+}
+.left a {
+  text-align: center;
+  margin-right: 20px;
+  font-size: 1.2rem;
+  font-weight: bold;
+  width: 100px;
+  color: #5c3551;
+  border-radius: 10px;
+  text-decoration: none;
+}
+.left a:hover {
+  background-color: #ebddbe;
+}
+
+.left a.active {
+  background-color: #ebddbe;
+}
+.logo {
+  width: 200px;
+}
+
+.right {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  width: 30%;
+}
+.right a {
+  text-align: center;
+  margin-right: 20px;
+  font-size: 1.2rem;
+  font-weight: bold;
+  width: 100px;
+  color: #5c3551;
+  border-radius: 10px;
+  text-decoration: none;
+}
+.right a:hover {
+  background-color: #ebddbe;
+}
+.shoppingCartIcon {
+  cursor: pointer;
+  color: #5c3551;
+  font-size: 36px;
+}
+.avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-left: 10px;
+}

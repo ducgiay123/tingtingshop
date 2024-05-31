@@ -1,0 +1,101 @@
+id,name,category_id,price,description
+00be9d3b-cf5b-41f5-9257-5b669fe4021a,Smart Plug,5,19.99,Remotely control appliances and devices with a smart plug
+01cdd65a-387a-440d-8076-187240ccdd5f,Smart Watch,1,249.99,Fitness tracker and smartwatch for active lifestyles
+04b6e9c2-7e2a-4437-a0a4-43418b4aa911,Blouse,2,24.99,Stylish blouse for a sophisticated look
+052be4df-493a-4599-9e0e-1d6d17dde0af,Smart Garden,5,79.99,Grow herbs and vegetables indoors with this automated smart garden
+08905ee0-0bca-459c-96aa-b441396b8c05,Portable Blender,4,39.99,Blend smoothies and shakes on the go with this portable and rechargeable blender
+0995cee7-3286-4c5d-936d-38cd25e46c69,Smart Umbrella,5,34.99,Umbrella that alerts you of impending rain and reminds you not to forget it
+0b4538a4-66e6-44f1-8dec-32479d7a4e1a,Wireless Earbuds,1,99.99,Convenient wireless earbuds for on-the-go listening
+0ed20d4d-6a10-49fa-a5ce-652ae1874234,Smart Mirror,5,199.99,Interactive mirror with built-in display for personalized information
+11e33645-62aa-4b36-9dde-5e691a7c3c6e,Wi-Fi Range Extender,5,49.99,Extend the range of your wireless network for better coverage
+1504532c-a027-4240-ae13-6e950b0a0db2,Smart Lock,5,149.99,Securely control access to your home with a smart lock system
+167c4a65-9070-4ca4-8cde-704d6f7d94e5,Smart Speaker,1,149.99,Voice-controlled smart speaker for hands-free convenience
+167ec69a-1601-470e-911d-d0a2847ed854,Desk Organizer,4,24.99,Keep your workspace tidy with this convenient organizer
+189a0bc2-eb46-490b-8be7-8fa56b5a8454,Throw Blanket,4,19.99,Warm and cozy throw blanket for chilly nights
+1ae9c573-bec0-43fc-8582-87a48e3b0423,Self-Help Book,3,14.99,Guide to personal growth and development
+1cca1932-b09e-449a-9627-4beb7a420616,Bluetooth Speaker,1,79.99,Portable Bluetooth speaker for music lovers
+1e1c56f6-4e8a-4b69-9e80-98a6401562d2,Tablet Stand,1,19.99,Convenient stand to hold your tablet in place
+1e444222-dc24-4aee-886c-960dbe5406f9,Bluetooth Car Adapter,1,19.99,Upgrade your car stereo system with Bluetooth connectivity
+1eafc798-cd5a-4591-8468-af6eb17ad2cc,Skirt,2,29.99,Fashionable skirt for any occasion
+23f76dac-f984-4532-82f6-8c105af71ef9,Desk Chair,4,79.99,Ergonomic desk chair for comfortable seating during long hours of work
+26bc3254-1a41-4144-8288-a15f9bda60b4,Running Shoes,2,79.99,Performance running shoes for athletes
+2875f464-af90-4a8a-8e5b-a46d3244518a,Hoodie,2,39.99,Casual hoodie for a laid-back style
+2a61c9b7-38d1-4796-9ec1-c61f7f677c75,Barbecue Grill,4,299.99,Host outdoor gatherings and cook delicious meals with this barbecue grill
+2b1f76e8-dcd5-4608-8adf-86a5f37aa2b3,Bluetooth Beanie,2,29.99,Stay warm and listen to music wirelessly with this Bluetooth-enabled beanie
+2deb1157-04e0-47cb-8011-3bc67cc84304,Printer,1,149.99,Versatile printer for home or office use
+35dd8932-9e64-480f-aab3-66051a2a53b0,Smart Doorbell,5,199.99,See and speak to visitors at your door from anywhere with a smart doorbell
+36564811-0d09-4ac0-aee8-affd099f3ae2,Smart Speaker,1,149.99,Voice-controlled smart speaker for hands-free convenience
+382dbcce-af5f-41d0-9111-9ca817d2309a,Portable Espresso Maker,4,49.99,Brew delicious espresso wherever you go with this portable espresso maker
+38778053-c3e2-4ee1-8e5b-87bad83396e5,Smart Picture Frame,5,89.99,Display and cycle through your favorite photos with a smart picture frame
+3cee7ae1-2d88-4110-89a7-db9a7fa5bd3f,Gaming Mouse,1,49.99,Precision gaming mouse with customizable buttons and lighting
+3d33b283-360c-445e-958f-4b729df3c175,Smart Notebook,5,34.99,Digitize your handwritten notes and sketches with this smart notebook
+3d98a75c-9316-4be7-a807-543e1a7d028b,Smart Backpack,5,79.99,Backpack with integrated USB charging port and anti-theft features
+444603f8-aff1-4a83-8c5c-b55ac2dfc77a,Wireless Keyboard,3,49.99,Convenient wireless keyboard for efficient typing
+478e5580-a763-4da8-ba2d-55759aa6acb1,Dress,2,49.99,Elegant dress for special occasions
+4efd6ee2-2e60-4bae-9779-288863f954b1,Security Camera,5,199.99,Monitor your home with high-definition security cameras
+4f2ebc7e-fe66-40cb-aa4d-9ee65c52a3c4,Wall Clock,4,49.99,Stylish wall clock to decorate your home
+4fa97080-7031-480c-bc48-ac61eebbce12,Leather Wallet,2,29.99,Stylish leather wallet to keep your essentials organized
+5168b344-c576-4b1d-a390-6e6a7a6a557d,Smart Thermostat,5,129.99,Automatically adjust your home's temperature for optimal comfort and energy savings
+57de06bf-1392-4653-b93e-da8473e07427,Smart Voice Translator,5,79.99,Instantly translate languages with this handheld smart voice translator
+58bca7ae-4381-405f-aa6c-eb2f7edca7b9,Sweatpants,2,29.99,Comfortable
+59048f02-832b-4a49-a374-002e03ea5b0c,Fiction Book,3,17.99,Immerse yourself in captivating fictional worlds
+5c3e32f6-f19b-4d46-bccb-dc400df36b36,Sunglasses,2,29.99,Protect your eyes in style with these fashionable sunglasses
+60001eb6-9dca-453f-83a4-c8e148a0304d,Indoor Plant,4,29.99,Bring nature indoors with this beautiful potted plant
+64f77d3e-4532-4411-85ae-9cd53040981e,Biography Book,3,17.99,Learn about the lives of inspiring individuals with this biography book
+67e36de6-bf59-4fa6-a550-ce555da5902a,Running Jacket,2,59.99,Stay warm and visible during your outdoor runs with this reflective jacket
+692be8ac-8e6f-4ccb-b5ed-fc31197f3f1a,Trail Camera,4,89.99,Capture wildlife activity with this motion-activated trail camera
+6a327346-16c1-4635-ad39-c69606084448,Novel,3,12.99,Bestselling novel by a renowned author
+6aa8632f-6473-41ff-a40a-8007c494ce4c,Sweatpants,2,29.99,Comfortable
+6f979911-0b9d-401a-874e-5d727db4614b,Leather Jacket,2,149.99,Stylish leather jacket for a rugged look
+6fce5f7e-163a-4613-a1bf-a8c22c19c0dc,Yoga Mat,2,19.99,Comfortable and non-slip yoga mat for your practice
+74ae9901-7092-47f1-8f42-02eb84e0e407,Smart Bicycle Lock,5,49.99,Secure your bike with a smart lock that provides keyless entry and theft alerts
+7a09a625-4b7b-46f9-a661-1be1162daea7,Wireless Charging Mouse,1,39.99,Charge your mouse wirelessly while you work or play
+7b117048-715e-481f-8fc0-5d7c2ff685fe,Suit,2,199.99,Tailored suit for formal occasions
+7c945d9f-17a0-4586-b1fa-ce84da7e684d,Wireless Security System,5,399.99,Comprehensive security system with wireless sensors and cameras
+7cdce920-80a5-41f3-bcb4-c5d72326d06e,Wireless Mouse,1,29.99,Convenient wireless mouse for efficient computing
+7f29a50a-46a7-4356-be4a-f2c6b9afc307,Backpack,2,39.99,Durable backpack for everyday use
+80b3aa0d-962f-459e-846c-4bf5badc1cf9,Smart Thermostat,5,149.99,Automatically adjust your home's temperature for optimal comfort and energy savings
+811029d1-8c01-45db-ab43-2908e0aa8060,Travel Guide,3,14.99,Plan your next adventure with this comprehensive travel guide
+8231b1ac-c5f4-4f03-857a-655386f29c0e,Decorative Vase,4,29.99,Elegant vase to enhance your home decor
+8449e048-bfb6-4dc7-93c3-94e1ade487b4,Desk Lamp,4,34.99,Adjustable desk lamp for studying or working
+8726db13-64c4-4142-9d84-147ab7343976,Smartphone,1,699.99,High-performance smartphone with advanced features
+887e33af-9da4-4f9a-a0c0-cc72b87222d3,History Book,3,19.99,Explore the rich tapestry of human history
+89e998a2-cc73-49c6-9a61-efc16983574d,Smart Scale,5,39.99,Track your weight and other health metrics with a smart scale
+93410def-e40c-4ade-ad4e-48aeb8baad65,Adventure Book,3,16.99,Embark on thrilling adventures from the comfort of your home
+98236dc4-6aa6-4735-a411-893870bad59f,Teapot,4,19.99,Brew your favorite tea in this elegant teapot
+9f15e676-1db3-4037-b633-0436f65b232a,Portable Bluetooth Speaker,1,39.99,Compact and portable Bluetooth speaker for music on the go
+a4fcd007-8283-496f-aa32-a3dd5a137d15,Psychology Book,3,16.99,Gain insights into the human mind and behavior
+a5899a2d-b00c-46fa-b53b-95e4e601273b,Smart Dog Collar,5,99.99,Track your dog's location and activity levels with a smart collar
+a72f1cb7-4d8f-4e82-822c-0dde306240af,T-shirt,2,19.99,Comfortable cotton t-shirt in various colors
+a8726d3a-c51c-481c-9b23-fd5121599b7e,Bluetooth Headphones,1,129.99,Immerse yourself in high-quality audio with these Bluetooth headphones
+a895d359-6b39-41cc-9492-6951c4036f32,Camping Cookware Set,4,49.99,Complete cookware set for outdoor cooking adventures
+ac79e893-954f-44fe-98c8-7bbef3166abe,Photo Frame,4,12.99,Display your cherished memories with this elegant photo frame
+add2a2e9-6c92-4ac9-8625-a43edfdd09cb,Cookbook,3,24.99,Collection of delicious recipes for home cooking
+aea1e1ab-842d-439d-a923-e413a26f6389,Bluetooth Car Stereo,1,79.99,Upgrade your car's audio system with Bluetooth connectivity
+b17383d8-53bb-4eff-bcb4-a2aad1eefe47,Smart Light Bulbs,5,29.99,Control the brightness and color of your lights with smart light bulbs
+b416a0da-28de-4301-836b-df1cfa4d5df2,Camping Lantern,4,24.99,Illuminate your campsite with this portable and durable camping lantern
+b449e62b-d566-4d03-9e04-30af12436739,Smart Water Bottle,5,29.99,Stay hydrated and track your water intake with a smart water bottle
+b86adaca-9621-4675-9248-6a0b4dddc686,Wireless Charging Pad,1,24.99,Conveniently charge your devices wirelessly with this charging pad
+b87e9229-6c4a-49c2-827b-365a6c6fdaa1,Jeans,2,39.99,Classic denim jeans for casual wear
+c6addf75-5668-44db-beab-7ee62a32acff,Wireless Charging Desk Lamp,1,59.99,Illuminate your workspace and charge your devices simultaneously with this innovative desk lamp
+c8dde494-3102-4d9e-81e7-3b5b0b67e60a,Science Book,3,18.99,Explore the wonders of science and technology
+ca4da321-df9d-4728-8284-338b1d287d0b,Smart Home Hub,5,99.99,Central control hub for smart home devices
+cd148e47-b2c3-4810-91b0-f16de861208e,Tablet,1,399.99,Versatile tablet for work and entertainment
+d29a216c-dcaa-439a-95a5-b0ed7c7b8fe5,Camping Tent,4,149.99,Durable and weather-resistant tent for outdoor adventures
+d528945d-27f1-42ed-9e21-2c773f7784ce,Wall Art,4,39.99,Add personality to your walls with this captivating piece of art
+d61f2442-e828-4fe2-94ef-045903ad2663,Wireless Charging Pad,1,19.99,Conveniently charge your devices wirelessly with this charging pad
+d9906809-03eb-42b9-96bc-c120ec210778,Plant Pot,4,9.99,Add a touch of greenery to your home with this stylish pot
+e27be861-cd2d-4278-b0ca-89e9e0f4e08d,Fitness Tracker,1,69.99,"Track your activity, heart rate, and sleep with this versatile fitness tracker"
+e34fab75-e465-40cd-ae69-c562d7c0c8d3,Robot Vacuum Cleaner,5,299.99,Efficient vacuum cleaner that autonomously cleans your home
+e4d44f76-ad30-4eff-8b6f-2ecb13aecbc7,Compact Camping Chair,4,29.99,Relax comfortably during outdoor adventures with this compact camping chair
+e4d62499-d381-45ef-b40f-9ec2e8f5b170,Wireless Charging Mouse Pad,1,39.99,Charge your smartphone wirelessly while using your computer with this multifunctional mouse pad
+e7ad1ecd-92eb-4301-803c-2ee2ac753907,Sweater,2,34.99,Knit sweater to keep you warm in style
+e92a098f-7c09-42f6-a619-a4a8b4cd47ea,Portable Power Bank,1,29.99,Charge your devices on the go with this portable power bank
+eea5328c-2961-4bde-af68-dd7bfaa4d8b5,External Hard Drive,1,89.99,Expand your storage capacity with this reliable external hard drive
+f29473ec-6636-461c-9d07-7000e74f3e07,Hiking Boots,2,79.99,Durable and waterproof hiking boots for outdoor adventures
+f2c00dc9-b2d3-4b07-b05c-72ae98ad65e0,Smart Kitchen Scale,5,39.99,Measure ingredients accurately and track nutritional information with this smart kitchen scale
+f4126d5f-0c15-44e2-b8ac-f16e2290c0c2,Wireless Charging Stand,1,34.99,Charge your smartphone wirelessly in both portrait and landscape orientations
+f6d99c9a-57c0-48ac-9aa6-1020153a968f,HD Webcam,1,59.99,Enjoy high-definition video calls with this HD webcam
+fca9f809-6801-4635-9cd0-574f8a0ea510,Laptop,1,1299.99,Powerful laptop for work and entertainment
+ff3ebd62-a6e7-4dec-add1-18b13dfb3c0f,Art Book,3,29.99,Discover the world of fine art and creativity
+ff4e9a30-7950-4df2-948e-7d33d7741af8,Throw Pillow,4,14.99,Soft and cozy throw pillow for your couch
